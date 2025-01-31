@@ -51,7 +51,7 @@ The **ATM Transactions Demographic Report Dashboard** provides in-depth insights
 
 ---
 
-## 📸 Dashboard Insights (Snapshot Breakdown)
+## 📸 Dashboard Insights 
 
 ![data-model](https://github.com/prof2022/ATM-Bank-Analysis/blob/Master/Pictures/Screenshot%202023-05-25%20014147.png)
 ### Key Observations:
@@ -65,7 +65,7 @@ The **ATM Transactions Demographic Report Dashboard** provides in-depth insights
 
 ---
 
-## 🌟 Impact of the Report
+## 🌟 Impact of the Analysis
 
 - **Customer Segmentation**:
   Businesses can tailor services to specific age groups and occupations for better customer retention.
