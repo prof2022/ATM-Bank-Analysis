@@ -1,6 +1,6 @@
 ---
 
-# 📊 ATM Transactions Demographic Report Dashboard
+# 📊 ATM Transactions Dashboard
 
 ![data-model](https://github.com/prof2022/ATM-Bank-Analysis/blob/Master/Pictures/Screenshot%202023-05-25%20014147.png)
 ## 📖 Overview
