@@ -1,17 +1,8 @@
-# ATM-Bank-Analysis
-![data-model](https://github.com/prof2022/ATM-Bank-Analysis/blob/Master/Pictures/Screenshot%202023-05-25%20014147.png)
-
-### Project Summary
-The purpose of this project is to analyze the ATM transaction data for Bank to gain insights on customer behavior, ATM usage, and identify opportunities to improve the bank's services.
-
-Here’s an updated and detailed README description based on the **Demographic Report Dashboard** with actionable insights for businesses and stakeholders:
-
 ---
 
 # 📊 ATM Transactions Demographic Report Dashboard
 
-![Demographic Dashboard](image.png)
-
+![data-model](https://github.com/prof2022/ATM-Bank-Analysis/blob/Master/Pictures/Screenshot%202023-05-25%20014147.png)
 ## 📖 Overview
 
 The **ATM Transactions Demographic Report Dashboard** provides in-depth insights into customer transaction behavior, categorized by **age group**, **transaction type**, **occupation**, and **state performance**. This interactive dashboard helps businesses and financial institutions analyze key trends in ATM usage and optimize their services for enhanced customer satisfaction.
@@ -62,8 +53,7 @@ The **ATM Transactions Demographic Report Dashboard** provides in-depth insights
 
 ## 📸 Dashboard Insights (Snapshot Breakdown)
 
-![Demographic Insights Snapshot](image.png)
-
+![data-model](https://github.com/prof2022/ATM-Bank-Analysis/blob/Master/Pictures/Screenshot%202023-05-25%20014147.png)
 ### Key Observations:
 1. **Age Group Patterns**:
    - Younger customers (15-25 years) are the most frequent ATM users.
